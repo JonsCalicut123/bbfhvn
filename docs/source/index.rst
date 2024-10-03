@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+BBFH - Cung Cấp Tin Tức Thể Thao Toàn Diện Trong Nước và Quốc Tế
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`BBFH <https://bbfh.vn/>`_ là một nền tảng hàng đầu chuyên cung cấp tin tức thể thao cả trong nước và quốc tế, mang đến cho độc giả những thông tin cập nhật về các sự kiện thể thao. Với đội ngũ biên tập viên chuyên nghiệp và đam mê, BBFH liên tục cập nhật kết quả, lịch thi đấu, tin tức chuyển nhượng, và các phân tích chuyên sâu từ nhiều môn thể thao khác nhau như bóng đá, bóng rổ, tennis, và đua xe. BBFH không chỉ mang đến thông tin chính xác và nhanh chóng mà còn tạo điều kiện cho người hâm mộ thể thao thảo luận và chia sẻ quan điểm của mình.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 58/17 ấp Tiền Lân, Bà Điểm, Hóc Môn, Hồ Chí Minh, Vietnam. 
 
-   This project is under active development.
+Phone: 0884551356. 
 
-Contents
---------
+Email: info@bbfh.vn. 
 
-.. toctree::
+Website: https://bbfh.vn/ 
 
-   usage
-   api
+#bbfh #trangchubbfh #dangkybbfh #dangnhapbbfh #linkbbfh
